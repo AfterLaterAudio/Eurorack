@@ -1,1 +1,1 @@
-
+PCB heatsink covers to replace the aluminunm After Later Audio panels in our 84hp and 104 hp cases.  We've used our "respect the hardware" artwork to demonstrate what can be done.  But please use these to customize your cases.  You could also use the USB power output to do something powered and with LEDs.
