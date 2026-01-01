@@ -1,1 +1,2 @@
 PCB heatsink covers to replace the aluminunm After Later Audio panels in the lid of our 84hp and 104 hp cases.  We've used our "respect the hardware" artwork to demonstrate what can be done.  But please use these to customize your cases.  You could also use the USB power output to do something powered and with LEDs.
+![foo](https://github.com/AfterLaterAudio/Eurorack/blob/master/Case/Heatsink%20cover%20product%20image.JPG)
